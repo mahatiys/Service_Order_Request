@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#0f62fe"          # IBM Carbon Blue (Enterprise Grade)
+backgroundColor = "#f4f7fa"       # Sleek Light Slate
+secondaryBackgroundColor = "#ffffff" # Pure White Card Backgrounds
+textColor = "#161616"             # Dark Charcoal text
+font = "sans serif"
+
+[server]
+port = 8501
+headless = true
+enableCORS = false
+enableXsrfProtection = false
